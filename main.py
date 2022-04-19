@@ -2,8 +2,8 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
-#import plotly.express as px
-#import plotly.graph_objects as go
+import plotly.express as px
+import plotly.graph_objects as go
 import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
